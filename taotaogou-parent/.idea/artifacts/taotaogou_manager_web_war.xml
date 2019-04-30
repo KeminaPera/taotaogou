@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="taotaogou-manager-web:war">
+    <output-path>$PROJECT_DIR$/../taotaogou-manager-web/target</output-path>
+    <root id="archive" name="taotaogou-manager-web.war">
+      <element id="artifact" artifact-name="taotaogou-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
