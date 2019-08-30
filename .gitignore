@@ -1,0 +1,25 @@
+﻿*.class
+target/
+bin/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# eclipse #
+.classpath
+.project
+.settings
+.mymetadata
+
+# .gitignore for intellij #
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.checkstyle
+
+logs/
+*.log
